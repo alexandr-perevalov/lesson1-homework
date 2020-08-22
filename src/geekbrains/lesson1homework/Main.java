@@ -7,7 +7,7 @@ public class Main {
         System.out.println(task10and20(5, 6));
         System.out.println(isPositiveOrNegative(76));
         System.out.println(isNegative(-76));
-        System.out.println(greetings("Перевал"));
+        System.out.println(greetings("Александр перевалов"));
 
 
         byte a = -35;
